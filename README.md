@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gowtham777y
+- 👋 Hi, I’m Gowtham
 - 👀 I’m interested in Full Stack Development development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on developing MERN Stack applications
