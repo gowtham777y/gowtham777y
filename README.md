@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gowtham777y
 - 👀 I’m interested in Full Stack Development development
-- 🌱 I’m currently learning Java SpringBoot development
-- 💞️ I’m looking to collaborate on developing Java Springboot applications
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on developing MERN Stack applications
 - 📫 You can reach me at my email - gowtham777y@gmail.com
 
 <!---
